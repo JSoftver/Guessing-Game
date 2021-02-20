@@ -35,7 +35,6 @@ function start() {
         } else if (guessedNumber == "McDumfly") {
             console.log(number);
             guessedNumber = prompt("Please try again!");
-	    guessing = guessing + 1;
         } else if (guessedNumber == "exit") {
         } else {
             guessedNumber = prompt("Please try again!");
