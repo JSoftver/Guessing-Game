@@ -5,9 +5,9 @@ function start() {
         return Math.floor(Math.random() * (max - min + 1)) + min;
     }
     
-    var number = guess(1, 20);
+    var number = guess(1, 100);
     
-    var guessedNumber = prompt("I thought of a number between 1 and 20. Try to figure out what it is!");
+    var guessedNumber = prompt("I thought of a number between 1 and 100. Try to figure out what it is!");
     
     var end = true;
     var guessing = 0;
