@@ -18,7 +18,7 @@ Rules:
 <h3 id="gameDev">Game development</h3>
 
 1. Create a new [issue!](https://github.com/JSoftver/Guessing-Game/issues/new)
-2. Set the Assignees in the left side to one of them [administrator!]()
+2. Set the Assignees in the left side to one of them [administrator!](https://github.com/JSoftver/Welcome/blob/main/README.md#adminList)
 3. Set the label to _development_!
 4. In the _leave a comment box_, enter the development!
 5. Create the issue!
@@ -26,7 +26,7 @@ Rules:
 <h3 id="reportProblem">Report problem</h3>
 
 1. Create a new [issue!](https://github.com/JSoftver/Guessing-Game/issues/new)
-2. Set the Assignees in the left side to one of them [administrator!]()
+2. Set the Assignees in the left side to one of them [administrator!](https://github.com/JSoftver/Welcome/blob/main/README.md#adminList)
 3. Set the label to _bug_!
 4. In the _leave a comment box_, enter the problem!
 5. Create the issue!
@@ -34,7 +34,7 @@ Rules:
 <h3 id="permit">Get permission</h3>
 
 1. Create a new [issue!](https://github.com/JSoftver/Guessing-Game/issues/new)
-2. Set the Assignees in the left side to one of them [administrator!]()
+2. Set the Assignees in the left side to one of them [administrator!](https://github.com/JSoftver/Welcome/blob/main/README.md#adminList)
 3. Set the label to _get permission_!
 4. In the _leave a comment box_, enter why you want to own the permission, where you want to use it, and why you want to use it!
 5. Create the issue!
