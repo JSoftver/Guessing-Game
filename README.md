@@ -1,6 +1,6 @@
 # Guessing-Game
 This is a simple number guessing game.
-<a href="https://jsoftver.github.io/Guessing-Game/" >Watch</a>
+<a href="https://jsoftver.github.io/Guessing-Game/">Watch</a>
 
 If you find any errors in any of the codes, please <a href="#reportProblem">report them back</a> to help us with our work. And if you have any ideas for improvement, do a <a href="#gameDev">new issue</a> so we can contact you and be among the developers.
 
