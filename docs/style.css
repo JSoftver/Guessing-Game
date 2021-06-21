@@ -4,10 +4,34 @@
 }
 
 .hr {
-    color: blue;
+    border: 2px solid blue;
+    border-radius: 5px;
 }
 
 .p {
     color: blue;
     font-family: 'Franklin Gothic Medium';
+}
+
+body {
+    background-image: url("bg.jpg");
+    background-repeat: no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size:  cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+button {
+    color: chartreuse;
+    background-color: blue;
+    border: 1px solid blue;
+    border-radius: 2px;
+    transition-duration: 0.5s;
+    cursor: pointer;
+}
+
+button:hover {
+    color: blue;
+    background-color: chartreuse;
 }
